@@ -3,3 +3,6 @@
 import UIKit
 
 var str = "Hello, playground"
+
+let yearOfBirth = 1989
+
